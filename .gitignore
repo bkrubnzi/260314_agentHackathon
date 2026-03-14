@@ -123,4 +123,6 @@ Thumbs.db
 
 # Project specific
 260306_7Minutes.pptx
+*.pptx
+~$*.pptx
 access-key.json
