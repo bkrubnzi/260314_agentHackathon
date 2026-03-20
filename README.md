@@ -2,7 +2,7 @@
 
 A hackathon example demonstrating three Claude agents interacting in a game setting. Two player agents (Sean Connery and Burt Reynolds) take turns asking each other questions while a judge agent (Alex Trebek) enforces the rules.
 
-This serves as a template for students to build their own multi-agent games using Claude and the Claude Agent SDK.
+This serves as a template for students to build their own multi-agent games using Claude and the Claude Agent SDK.   
 
 ## Quick Start
 
