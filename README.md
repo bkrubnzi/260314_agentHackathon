@@ -1,4 +1,4 @@
-# Questions Only - Multi-Agent Game Demo  
+# Questions Only - Multi-Agent Game Demo
 
 A hackathon example demonstrating three Claude agents interacting in a game setting. Two player agents (Sean Connery and Burt Reynolds) take turns asking each other questions while a judge agent (Alex Trebek) enforces the rules.
 
